@@ -1,0 +1,2 @@
+# gAJYDZEH
+基于pyqt的深度学习的yolov8的癌症图像智能检测系统
